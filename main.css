@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+:root{
+    --font-primaria:"Roboto", sans-serif;
+    --fonte-secundaria:"Ubuntu", sans-serif
+}
+
+
+
+main{
+    background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 8%, rgba(9,111,121,0.7987570028011204) 50%, rgba(0,255,59,1) 92%);
+}
