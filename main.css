@@ -36,6 +36,7 @@ main{
     display: block;
     margin: 0 auto;
     border-radius: 501px;
+    
 }
 
 
@@ -99,5 +100,6 @@ background: linear-gradient(220deg, rgba(2,0,36,1) 8%, rgba(69,198,210,1) 56%, r
     margin-top: 10px;
     background-color: rgb(204, 208, 208);
     border: none;
+    cursor: pointer;
 }
 
